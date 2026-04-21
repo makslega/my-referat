@@ -29,4 +29,4 @@
 ## Заключение
  Сети продолжают развиваться и становяться всё лучше. 
 
-![Эволюция компьютерных сетей]()
+![Эволюция компьютерных сетей](https://raw.githubusercontent.com/makslega/my-referat/6c966bd99db33bc57be3ded15621680fe5409fd1/images/piojy5axfoslkqpredclo75gvp6jc3sachvcdoaizecfr3dnitcq_3_0.png)
